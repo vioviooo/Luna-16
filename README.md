@@ -1,4 +1,4 @@
-## (RUS) Обозначения
+## (RUS) Содержание проекта
 
 ### О проекте, презентация, отчеты:
 https://docs.google.com/document/d/1ZNoKiycPPAjobxEbGHM8S230opfNFDdqA1ZdVQCbU8I
