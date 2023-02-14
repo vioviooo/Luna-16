@@ -22,7 +22,7 @@ https://docs.google.com/document/d/1ZNoKiycPPAjobxEbGHM8S230opfNFDdqA1ZdVQCbU8I
 
 *Mission Trailer* - promotional video of our project (now available on YouTube)
 
-## Mission Trailer on YouTube:
+## Mission Trailer on YouTube (English CC available):
 https://www.youtube.com/watch?v=MnegGeva_I8&t=12s
 
 ## Full video of the mission simulation in KSP (Kerbal Space Program):
