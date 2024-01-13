@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=MnegGeva_I8&t
 https://drive.google.com/drive/u/0/folders/1jzWLD4Q72tlMOnQtOFI4xsnmpx5DIPe9
 
 ## Team "Kittens":
-### ⭐ Victoria Brovina // *team lead*
+### ⭐ Victoria Brovina // *team lead, programmer*
 ### ⭐ Victoria Doyanova // *math model, video*
 ### ⭐ Aida Mashrabova // *simulation in KSP*
 ### ⭐ Anna Vorona // *presentation, mission research*
